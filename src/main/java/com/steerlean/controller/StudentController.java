@@ -1,8 +1,8 @@
 package com.steerlean.controller;
 
 import com.steerlean.model.Course;
-// import com.steerlean.model.Student;
-// import com.steerlean.service.StudentService;
+import com.steerlean.model.Student;
+import com.steerlean.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
